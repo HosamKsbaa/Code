@@ -33,3 +33,13 @@ MicroSercise
 
 
 http://localhost:55545/docs
+http://localhost:5050/browser/
+
+
+
+local_pgdb
+POSTGRES_USER: user
+POSTGRES_PASSWORD: admin
+
+PGADMIN_DEFAULT_EMAIL: raj@nola.com
+PGADMIN_DEFAULT_PASSWORD: admin
